@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android studio which are created before using git/Math/app/src/main/res/layout/activity_easygame.xml" value="0.20102564102564102" />
+        <entry key="..\:/Users/hsret/AndroidStudioProjects/Math/app/src/main/res/drawable/disable_btn.xml" value="0.1787037037037037" />
+        <entry key="..\:/Users/hsret/AndroidStudioProjects/Math/app/src/main/res/drawable/green_button.xml" value="0.1787037037037037" />
+        <entry key="..\:/Users/hsret/AndroidStudioProjects/Math/app/src/main/res/drawable/ic_next.xml" value="0.1787037037037037" />
+        <entry key="..\:/Users/hsret/AndroidStudioProjects/Math/app/src/main/res/drawable/ic_repeat.xml" value="0.1787037037037037" />
+        <entry key="..\:/Users/hsret/AndroidStudioProjects/Math/app/src/main/res/layout/activity_easygame.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/hsret/AndroidStudioProjects/Math/app/src/main/res/layout/activity_easylevel.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/hsret/AndroidStudioProjects/Math/app/src/main/res/layout/activity_level10.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/hsret/AndroidStudioProjects/Math/app/src/main/res/layout/activity_level2.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/hsret/AndroidStudioProjects/Math/app/src/main/res/layout/activity_level3.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/hsret/AndroidStudioProjects/Math/app/src/main/res/layout/activity_level4.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/hsret/AndroidStudioProjects/Math/app/src/main/res/layout/activity_level5.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/hsret/AndroidStudioProjects/Math/app/src/main/res/layout/activity_level6.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/hsret/AndroidStudioProjects/Math/app/src/main/res/layout/activity_level7.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/hsret/AndroidStudioProjects/Math/app/src/main/res/layout/activity_level8.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/hsret/AndroidStudioProjects/Math/app/src/main/res/layout/activity_level9.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/hsret/AndroidStudioProjects/Math/app/src/main/res/layout/activity_main.xml" value="0.17239583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

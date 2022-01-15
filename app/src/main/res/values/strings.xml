@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Math</string>
+    <string name="Multiples_upto_100">Multiplies UPTO 10</string>
+    <string name="Multiples_upto_200">Multiples UPTO 20</string>
+    <string name="Exam">Exam</string>
+    <string name="play">Play Game</string>
+
+
+    <!--    Exam Activity Strings-->
+    <string name="easy">EASY</string>
+    <string name="normal">NORMAL</string>
+    <string name="hard">HARD</string>
+    <string name="very_hard">VERY HARD</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="time">TIME:</string>
+    <string name="score">SCORE:0</string>
+
+    <string name="gameover">GAME OVER! SCORE IS 20 points</string>
+    <string name="correct">CORRECT: 5</string>
+    <string name="incorrect">INCORRECT: 15</string>
+    <string name="pass">PASS</string>
+    <string name="fail">FAIL!</string>
+    <string name="show">SHOW ANSWER</string>
+    <string name="ans"> 10 X 10 = 20 </string>
+</resources>
